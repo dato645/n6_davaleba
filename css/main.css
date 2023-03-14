@@ -25,37 +25,118 @@ header h1{
 .firstspan{
     margin-left: 50px;
 }
-.p_2{
-    font-size: 20px;
-    color: #5F6980;
-    font-weight: 400;
-}
-.main{
-    margin-top: 48px;
-   display: flex;
-   justify-content: space-between;
-}
-.maindiv h1{
-    margin-top: 16px;
-    font-size: 18px;
-    color: #282828;
-    font-family: 'Inter', sans-serif;
-    line-height: 30px;
-    font-weight: 600;
-}
-.maindiv h3{
-    font-family: 'Inter', sans-serif;
-    color: #3E3E59;
-    font-size: 14px;
-    line-height: 22px;
-    margin-top: 4px;
-}
-.logo{
-    margin-top: 35px;
-    gap: 16px;
-    display: flex;
-}
-.boss{
+.bossdiv{
     display: flex;
     justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 48px;
+}
+.menegetdiv h1{
+     font-family: 'Inter', sans-serif;
+      font-size: 18px;
+      font-weight:600;
+      line-height: 30px;
+      color: #282828;
+      margin-top:16px;
+     height: 30px;
+     width: 278px;
+
+}
+.menegetdiv h3{
+      font-family: 'Inter', sans-serif;
+      color: #3E3E59;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 22px;
+      margin-top: 4px;
+      height: 22px;
+      width: 278px;
+
+}
+.menegetdiv p{
+     margin-top: 8px;
+     font-size: 14px;
+     color: #3E3E59;
+     line-height:22px; 
+     height: 44px;
+      width: 278px;
+}
+.menegetdiv{ 
+     margin-left: 50px;
+    border: 1px solid #EAECF0;
+    width: 310px;
+    height: 230px;
+   padding-left:16px;
+   
+}
+.logos{
+    display: flex;
+    gap: 16px;
+    margin-top: 24px;
+}
+.superdiv{
+     display: flex;
+     justify-content: space-between;
+
+}
+.div1{
+    margin-right: 47px;
+}
+.footerdiv{
+    margin-left: 50px;
+   
+    margin-top: 1px;
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    margin-top: 48px;
+    background-color: #53535354;
+    padding-block-end:15% ;
+}
+.footerdiv img {
+    margin-top: 108px;
+}
+.footerdiv h1{
+    margin-top: 108px;
+    margin-left: 14px;
+    color: #1E1E1E;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+}
+.footerdiv h2{
+    margin-top:108px ;
+    margin-right: 195px;
+     color: #1E1E1E;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+}
+.lastboss{
+    display: flex;
+    justify-content: space-between;
+     font-size: 14px;
+     font-weight: 400;
+     font-family: 'Inter', sans-serif;
+     color:#535353 ;
+}
+.lastboss p{
+    margin-top: 32px;
+    margin-left: 50px;
+}
+.lastboss ul{
+    margin-top: 32px;
+    margin-right: 149px;
+}
+.lastboss img{
+    margin-top: 32px;
+    margin-right: 194px;
+}
+.finaldiv{
+    display: flex;
+    gap: 16px;
+    margin-left: 50px;
+    margin-top: -50px;
 }
